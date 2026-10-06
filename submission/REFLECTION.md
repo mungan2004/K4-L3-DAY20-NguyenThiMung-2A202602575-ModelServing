@@ -164,4 +164,4 @@ xem được → 0 điểm.
 
 ## 9. Khai báo sử dụng AI  *(xem `docs/RULES.md` §3)*
 
-Có sử dụng Gemini để thực hiện tự động các lệnh lab và điền báo cáo.
+Có sử dụng Gemini để thực hiện tự động các lệnh lab 
